@@ -1,9 +1,12 @@
 # Read before moving forward
-- The file has been compiled to .jar
-- To execute either go to src and compile the code under .java extension. 
-- or
-- Run the jar file by opening terminal and
-- $ java -jar 'filename'.jar
-  
-- Enjoy!!! 
+
+---
+### For Windows & Mac
+- Go to src Folder and open the CalcX Class and Run the Java File in an IDE(IntelliJ)
+---
+### For Linux
+- Go to src Folder and open the CalcXGtk Class and Run the Java File in an IDE(IntelliJ)
+---
+
+# Enjoy!!! 
   
